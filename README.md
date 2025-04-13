@@ -1,6 +1,6 @@
-# NKYlandcover_change
+# NKY landcover change
 Exploring change to landcover in Northern Kentucky
-# My area of change
+# Northern Kentucky
 
 ## My subtitle about the change
 In the past two decades the northernmost portion of Kentucky has undergone extreme development. What was once an area of farms and pastures has turned into an ever-present construction zone. This map visualizes the change that has occurred in this region from 2001-2019.
